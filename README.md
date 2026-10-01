@@ -28,7 +28,7 @@ The singular values decay rapidly, which is exactly why this works:
 ## How to run
 
 ```bash
-git clone https://github.com/YOURUSERNAME/svd-image-compression.git
+git clone https://github.com/Leikai06/svd-image-compression.git
 cd svd-image-compression
 pip install -r requirements.txt
 python3 compress.py
